@@ -1,10 +1,4 @@
 # Java Unit Testing with AI (JUTAI)
-## Clone
-```bash
-git clone git@github.com:KatrinKahur/unit-test-app.git
-cd unit-test-app
-```
-## Install dependencies
-```bash
-npm install
-```
+## Bachelor thesis 2023
+Available at https://www.diva-portal.org/smash/record.jsf?dswid=-8817&pid=diva2%3A1778114 
+
